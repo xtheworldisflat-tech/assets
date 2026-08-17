@@ -1,0 +1,20 @@
+{
+    "name": "World is Flat",
+    "type": "ROBINHOODCHAIN",
+    "symbol": "WIF",
+    "decimals": 18,
+    "description": "$WIF is the token for a financial system where borders, banks, and old gatekeepers don't decide who gets access.",
+    "website": "https://worldisflat.fun",
+    "explorer": "https://robinhoodchain.blockscout.com/token/0x5173b8eA6923c2d40267890D45C46a3480954773",
+    "status": "active",
+    "id": "0x5173b8eA6923c2d40267890D45C46a3480954773",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/WIFonRH"
+        }
+    ],
+    "tags": [
+        "MEME"
+    ]
+}
